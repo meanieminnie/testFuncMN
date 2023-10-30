@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='testFuncMN-package-demo', ##name of repo enclosing folder (pip-package-demo)
+    name='testFuncMN', ##name of repo enclosing folder (pip-package-demo)
     version='0.0.2',
     author='Mrinalini Nayak', ## your name
     author_email='mnayak20.mn@gmail.com', ## your email
