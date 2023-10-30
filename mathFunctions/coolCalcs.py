@@ -14,7 +14,7 @@ def subNumbers(number1, number2):
 
 ## function that gathers all files ina folder together
 import glob
-def gatherFiles("path"):
+def gatherFiles(path):
     '''
     provide path as string with file pattern (e.g. *.csv)
     returns all target files in a list'''
