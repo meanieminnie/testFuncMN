@@ -1,2 +1,2 @@
-## .demoFunc refers to file that holds all the functions
-from .demoFunc import addNumbers, subNumbers
+## .coolCalcs refers to file that holds all the functions
+from .coolCalcs import addNumbers, subNumbers
