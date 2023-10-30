@@ -11,3 +11,11 @@ def subNumbers(number1, number2):
     function subtracts 2 from 1, returns total.
     '''
     return number1-number2
+
+## function that gathers all files ina folder together
+import glob
+def gatherFiles("path with file pattern"):
+    '''
+    provide path as string with file pattern (e.g. *.csv)
+    returns all target files in a list'''
+    return glob.glob(path)
