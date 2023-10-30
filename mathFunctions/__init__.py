@@ -1,2 +1,2 @@
 ## .coolCalcs refers to file that holds all the functions
-from .coolCalcs import addNumbers, subNumbers
+from .coolCalcs import addNumbers, subNumbers, gatherFiles
